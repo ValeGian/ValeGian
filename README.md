@@ -1,5 +1,6 @@
 **AI Tech Lead, LLM Inference Engineer at [Translated](https://translated.com).** I own the decoder behind Lara, our
-LLM translation service, and lead a small team around it. Day to day: vLLM internals, speculative decoding (Medusa,
+LLM translation service, lead a small team around it, and deploy the open 100-500B models we use internally for
+work like coding. Day to day: vLLM internals, speculative decoding (Medusa,
 EAGLE-3, DSpark), low-precision inference (FP8, NVFP4) on NVIDIA Hopper and Blackwell GPUs, and the benchmarks that
 decide what ships.
 
