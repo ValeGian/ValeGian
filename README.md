@@ -9,8 +9,9 @@ decide what ships.
   ([model](https://huggingface.co/translated/Lara-4-Mini-Base), [report](https://arxiv.org/abs/2611.16956)), and I
   brought it to [Hugging Face Transformers](https://github.com/huggingface/transformers/pull/50819) (merged, v5.24.0)
   and [vLLM](https://github.com/vllm-project/vllm/pull/67978) (in review).
-- I also work upstream on the stack I run in production: fixes, bug reports and root-cause analyses for vLLM,
-  SGLang (SpecForge) and TensorRT-LLM.
+- I also work upstream on the stack I run in production: fixes, bug reports and root-cause analyses for vLLM (like
+  a [silent accuracy drop with redundant EPLB experts](https://github.com/vllm-project/vllm/issues/67054), traced to
+  its cause with a minimal repro), SGLang (SpecForge) and TensorRT-LLM.
 
 **Side projects**
 
