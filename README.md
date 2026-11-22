@@ -6,7 +6,8 @@ decide what ships.
 
 **Open source**
 
-- **Lara Mini**: I'm part of the core team behind Translated's open multilingual MoE base model
+- **Lara Mini**: I'm part of the core team behind Translated's open MoE base model, the best open base model in
+  its size class
   ([model](https://huggingface.co/translated/Lara-4-Mini-Base), [report](https://arxiv.org/abs/2611.16956)), and I
   brought it to [Hugging Face Transformers](https://github.com/huggingface/transformers/pull/50819) (merged, v5.24.0)
   and [vLLM](https://github.com/vllm-project/vllm/pull/67978) (in review).
